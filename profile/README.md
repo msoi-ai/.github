@@ -1,6 +1,9 @@
 # Welcome to our GitHub Organization!
 
 We are a team of passionate developers dedicated to building innovative solutions to real-world problems. Our organization is focused on creating open-source projects that empower developers and make their lives easier.
+<p align="center">
+  <img src= "https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif">
+</p>
 
 ## Our Mission
 
