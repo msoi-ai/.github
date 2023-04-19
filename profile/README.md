@@ -1,5 +1,9 @@
-# Welcome to our GitHub Organization!
 
+<h1>
+  <a href="https://msoi.ai/">
+  <img height="25" src="https://avatars.githubusercontent.com/u/131297802?v=4"/>
+</a> Welcome to MSOI 
+</h1>
 We are a team of passionate developers dedicated to building innovative solutions to real-world problems. Our organization is focused on creating open-source projects that empower developers and make their lives easier.
 <p align="center">
   <img src= "https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif">
